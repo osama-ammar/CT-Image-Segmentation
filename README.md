@@ -1,5 +1,4 @@
 # CT-Segmentation
-Building a model to segment CB images 
-This was a task to accomplish in 2 weeks .I did my best in this project and got good results
-The aim and structure of this task is mentioned in machine-learning.ipynb file
-finally 2
+building a neural network using pytorch which segments upper (Maxilla) and lower(Mandible) jaws in a DICOM file
+## Dataset
+The Dataset is provided as 2D slices from all 3 orthogonal points of view Axial, Coronal, and Sagittal.
